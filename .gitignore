@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+*.sqlite
+*.sqlite3
+slownik_stereotypow.json
+*.csv
+*.jsonl
